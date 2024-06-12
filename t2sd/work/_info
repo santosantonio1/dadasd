@@ -1,0 +1,115 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/anton/code/t2sd
+varm
+Z1 !s110 1714737821
+!i10b 1
+!s100 YNdnJT:6Wl5RYKW^3oTUX3
+Il^MDGKnImhfJ@A;:Q^_ST1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1714523187
+8./a/arm.v
+F./a/arm.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1714737820.000000
+!s107 ./a/arm.v|
+!s90 -reportprogress|300|-work|work|./a/arm.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vdriver
+Z7 !s110 1714737820
+!i10b 1
+!s100 n35jCa0LF^d@R3k6[aY_@1
+IOeeeFkC=;?WkOT2Y;;]]S0
+R2
+R0
+w1714521711
+8./a/driver.v
+F./a/driver.v
+L0 7
+R3
+r1
+!s85 0
+31
+R4
+!s107 ./a/driver.v|
+!s90 -reportprogress|300|-work|work|./a/driver.v|
+!i113 1
+R5
+R6
+vtb
+R1
+!i10b 1
+!s100 U@W1F=g^FfH2M@jkNWzMg3
+I6FE9[iJ>X3doD?NAh@>iz1
+R2
+R0
+w1714737046
+8./a/tb.v
+F./a/tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1714737821.000000
+!s107 ./a/tb.v|
+!s90 -reportprogress|300|-work|work|./a/tb.v|
+!i113 1
+R5
+R6
+vtimer
+R7
+!i10b 1
+!s100 iVz;2JV6815Sd1j1<S<zQ1
+Im4nE2Dn4<chIX^EZe50MB0
+R2
+R0
+w1714735470
+8./a/timer.v
+F./a/timer.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 ./a/timer.v|
+!s90 -reportprogress|300|-work|work|./a/timer.v|
+!i113 1
+R5
+R6
+vtop
+R7
+!i10b 1
+!s100 HMQd0Na=HefzgHgDHYEm:1
+IKT?a7^]XI:QJSRG<GjQZ60
+R2
+R0
+w1714737743
+8./a/top.v
+F./a/top.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+!s107 ./a/top.v|
+!s90 -reportprogress|300|-work|work|./a/top.v|
+!i113 1
+R5
+R6
